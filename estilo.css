@@ -1,0 +1,12 @@
+body {
+    background-color: grey;
+    color: honeydew;
+    text-align: center;
+    
+}
+.botao {
+    position: absolute;
+    left: 848px;
+    top: 95px;
+    height: 42px;
+}
